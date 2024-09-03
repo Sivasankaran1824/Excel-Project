@@ -4,5 +4,5 @@
 ●	Implemented strategies for customer insights, profitability analysis, and market research, leading to improved loan product offerings and customer retention.
  
 
-![Bank project](https://github.com/user-attachments/assets/45d60ecd-9a39-49ef-982a-dbc187d26668)
-![Bank project 2](https://github.com/user-attachments/assets/d00fa8de-0229-4758-8914-286fcbc779ff)
+![BANKPROJECT 1](https://github.com/user-attachments/assets/989b8c24-d1e3-4ca6-8cff-4df9681da64c)
+![BANKPROJECT 2](https://github.com/user-attachments/assets/86d5dc6d-77f0-4e26-9a63-311b86ed592b)
